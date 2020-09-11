@@ -9,26 +9,11 @@ After my expected graduation date of Dec 2020 I'm actively looking for a full ti
 <p align="left">
   
 ## I work with...✨
-<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">    
-<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">    
-<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">     
-<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/languages/python.svg" alt="python" style="vertical-align:top; margin:4px"> 		   	
-<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">   
-<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/languages/r.svg" alt="R" style="vertical-align:top; margin:4px">   
-<br><br>
-<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
-<br><br>
+<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    <img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">    <img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">   <img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">     <img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/languages/python.svg" alt="python" style="vertical-align:top; margin:4px"> 		   	<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">   <img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/languages/r.svg" alt="R" style="vertical-align:top; margin:4px">   
 
-<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/misc/mobile.svg" alt="mobile" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/misc/web.svg" alt="web" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/misc/ai.svg" alt="AI" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
 
+<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/misc/mobile.svg" alt="mobile" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/misc/web.svg" alt="web" style="vertical-align:top; margin:4px"> <img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/misc/ai.svg" alt="AI" style="vertical-align:top; margin:4px">
 </p>
 
 ## Skills ✨
