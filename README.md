@@ -9,32 +9,32 @@ After my expected graduation date of Dec 2020 I'm actively looking for a full ti
 <p align="left">
   
 ## I work with...✨
-<img src="svg/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-<img src="svg/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">    
-<img src="svg/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">    
-<img src="svg/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">     
-<img src="svg/languages/python.svg" alt="python" style="vertical-align:top; margin:4px"> 		   	
-<img src="svg/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">   
-<img src="svg/languages/r.svg" alt="R" style="vertical-align:top; margin:4px">   
+<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">    
+<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">    
+<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">     
+<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/languages/python.svg" alt="python" style="vertical-align:top; margin:4px"> 		   	
+<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">   
+<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/languages/r.svg" alt="R" style="vertical-align:top; margin:4px">   
 <br><br>
-<img src="svg/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
-<img src="svg/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-<img src="svg/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:4px">
-<img src="svg/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
-<img src="svg/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
 <br><br>
 
-<img src="svg/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-<img src="svg/misc/mobile.svg" alt="mobile" style="vertical-align:top; margin:4px">
-<img src="svg/misc/web.svg" alt="web" style="vertical-align:top; margin:4px">
-<img src="svg/misc/ai.svg" alt="AI" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/misc/mobile.svg" alt="mobile" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/misc/web.svg" alt="web" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/misc/ai.svg" alt="AI" style="vertical-align:top; margin:4px">
 
 </p>
 
 ## Skills ✨
 - Over the years, I have developed a good foundation for data structures, algorithms and problem solving.
     + Programming languages: Python, Java, C++
-    + Web technologies: HTML, CSS, AJAX, JavaScript
+    + Wfixeb technologies: HTML, CSS, AJAX, JavaScript
     + Framework: React, Laravel, Struts, Spring, Flask, Django
     + Tools: Git, Jenkins, Ansible, JIRA
 
