@@ -4,7 +4,7 @@
 - Currently, I am pursuing a Master's in Computer Science at NC State University, USA with a specialization in Data Science. Summer 2020, I interned at Murano Corporation as a full stack developer [May 2020 - Aug 2020] where  I was resposible for developing Murano's flagship product using Java, ElasticSearch and Javascript.
 
 ## Looking for ✨
-After my expected graduation date of Dec 2020 I'm actively looking for a full time <b>Software Engineering/Data Science</b> positions located anywhere in the USA.
+After my expected graduation date of May 2021 I'm actively looking for a full time <b>Software Engineering/Data Science</b> positions located anywhere in the USA.
 
 <p align="left">
   
