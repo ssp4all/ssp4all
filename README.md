@@ -30,6 +30,6 @@ After my expected graduation date of May 2021, I'm actively looking for a full t
 - spawar2 at ncsu.edu
 
 ## Portfolio ✨
-- [Portfolio](ssp4all.github.io)
+- [Portfolio](https://ssp4all.github.io)
 
 ![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=ssp4all&show_icons=true&theme=tokyonight)
