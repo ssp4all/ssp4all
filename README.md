@@ -2,6 +2,8 @@
 
     Python | Java | JavaScript | MySQL | React
 
+<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/imgs/suraj-banner.png" height="150px">
+
 ![](https://komarev.com/ghpvc/?username=ssp4all&color=orange)
 
 ## A brief Intro 
