@@ -1,21 +1,23 @@
 # Hi there, My name is [Suraj](https://ssp4all.github.io)! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-    Python | Java | JavaScript | MySQL | React
+<center>
+<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/banner/imgs/suraj-banner.png" height="275px" width=80%>
 
-<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/imgs/suraj-banner.png" height="150px">
+Python | Java | JavaScript | MySQL | React
 
-![](https://komarev.com/ghpvc/?username=ssp4all&color=orange)
+![profile visit counter](https://komarev.com/ghpvc/?username=ssp4all&color=orange)
+</center>
 
-## A brief Intro 
+## 💲 A brief Intro 
 - Currently, I am pursuing a Master's in Computer Science at NC State University, USA with a specialization in Data Science. During Summer 2020, I interned at Murano Corporation as a full stack developer [May 2020 - Aug 2020]. 
 - My main area of interests are Software Engineering + DevOps and Data Science.
 
-## Looking for 
+## 💲 Looking for 
 - After my expected graduation in <i>May 2021</i>, I'm actively looking for a full time <b>Software Engineering/Data Science</b> role located anywhere in the USA.
 
 <p align="left">
   
-## I work with...✨
+## 💲I work with...
 <img height="20" src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">   <img height="20" src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/languages/python.svg" alt="python" style="vertical-align:top; margin:4px"> <img height="20" src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">   <img height="20" src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/languages/r.svg" alt="R" style="vertical-align:top; margin:4px">   
 
 <img height="20" src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    <img height="20" src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">    <img height="20" src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">   <img height="20" src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px"> <img height="20" src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"> <img height="20" src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:4px"> <img height="20" src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px"> <img height="20" src="https://raw.githubusercontent.com/ssp4all/ssp4all/master/svg/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
@@ -24,7 +26,7 @@
 </p>
 
 
-## #️⃣ Reach me 
+## 💲Reach me 
 <a href="https://www.linkedin.com/in/ssp4all" style="text-decoration:none"><img height="20" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&"></a>  <a href="https://www.twitter.com/ssp4all" style="text-decoration:none"><img height="20" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="mailto:spawar2@ncsu.edu" style="text-decoration:none"><img height="20" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <details>
