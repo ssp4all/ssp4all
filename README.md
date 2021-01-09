@@ -1,12 +1,11 @@
 # Hi there, My name is [Suraj](https://ssp4all.github.io)! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<center>
-<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/banner/imgs/suraj-banner.png" height="275px" width=80%>
+
+<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/banner/imgs/suraj-banner.png" height="275px" width=90%>
 
 Python | Java | JavaScript | MySQL | React
 
 ![profile visit counter](https://komarev.com/ghpvc/?username=ssp4all&color=orange)
-</center>
 
 ## 💲 A brief Intro 
 - Currently, I am pursuing a Master's in Computer Science at NC State University, USA with a specialization in Data Science. During Summer 2020, I interned at Murano Corporation as a full stack developer [May 2020 - Aug 2020]. 
