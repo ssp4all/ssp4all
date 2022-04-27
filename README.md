@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/ssp4all/ssp4all/banner/imgs/suraj-banner.png" height="275px" width=90%>
 
-Python | Java | JavaScript | MySQL | React
+Golang | Python | Java | JavaScript | MySQL | React
 
 ![profile visit counter](https://komarev.com/ghpvc/?username=ssp4all&color=orange)
 
