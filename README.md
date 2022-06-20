@@ -1,4 +1,4 @@
-# Hi there, My name is [Suraj](https://ssp4all.github.io)! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px">, My name is [Suraj](https://ssp4all.github.io)! 
 
 
 <img src="https://raw.githubusercontent.com/ssp4all/ssp4all/banner/imgs/suraj-banner.png" height="275px" width=90%>
