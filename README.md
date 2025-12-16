@@ -1,17 +1,11 @@
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px">, My name is [Suraj](https://ssp4all.github.io)! 
 
-
-<img src="https://raw.githubusercontent.com/ssp4all/ssp4all/banner/imgs/suraj-banner.png" height="275px" width=90%>
-
-Golang | Python | Java | JavaScript | MySQL | React
+Golang | Python | Java | JavaScript 
 
 ![profile visit counter](https://komarev.com/ghpvc/?username=ssp4all&color=orange)
 
 ## 💲 A Brief Intro 
-Suraj earned a Master's degree in Computer Science from NC State University, where he honed his expertise in backend engineering. He excels in designing and implementing scalable, high-performance APIs and microservices, leveraging modern backend technologies, databases, and cloud platforms. Suraj is deeply passionate about tackling complex challenges and optimizing system architectures to enhance user experiences. 
-
-In addition to his backend engineering skills, Suraj has a keen interest in leveraging cutting-edge technologies like Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) techniques, and Multi-Cloud Platforms (MCP). He actively explores how these innovations can be integrated into modern systems to drive efficiency, scalability, and intelligent automation.
-
+Suraj is a skilled backend engineer with a Master's degree in Computer Science from NC State University. He specializes in designing and implementing scalable, high-performance APIs and microservices, leveraging modern backend technologies, databases, and cloud platforms. Passionate about tackling complex challenges, Suraj optimizes system architectures to enhance user experiences. He is also enthusiastic about exploring cutting-edge technologies like LLMs, RAG techniques, and Multi-Cloud Platforms to drive efficiency, scalability, and intelligent automation.
 
 <p align="left">
   
